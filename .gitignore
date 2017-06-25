@@ -97,5 +97,6 @@ ENV/
 
 .idea/
 aries-v1.0/
+startbootstrap-full-gh-pages/
 
 db.sqlite3
