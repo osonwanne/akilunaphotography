@@ -1,4 +1,4 @@
-# akilunaphotography
+# Akiluna Photography
 
 Akiluna Photography - portraits and landscape. http://akilunaphotography.com
 
