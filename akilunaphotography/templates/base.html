@@ -71,11 +71,16 @@
     <br>
 
     <br>
+        <!-- Page Content -->
+    <div class="container">
 
     <body class="{% block body_class %}{% endblock %}">
         {% wagtailuserbar %}
 
         {% block content %}{% endblock %}
+
+
+    </div>
 
         {# Global javascript #}
         <script type="text/javascript" src="{% static 'js/akilunaphotography.js' %}"></script>
