@@ -1,5 +1,5 @@
 # Akiluna Photography
 
-Akiluna Photography - portraits and landscape. http://akilunaphotography.com
+Akiluna Photography - portraits and landscape photography. http://akilunaphotography.com
 
-Free web template from www.free-css.com/free-css-templates/page213/aries-v1.0
+[![Akiluna Photography](https://s3-us-west-2.amazonaws.com/akilunaphotography/AkilunaPhotography.PNG "Website")](http://akilunaphotography.com)
