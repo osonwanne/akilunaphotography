@@ -24,7 +24,7 @@ def contact(request):
             form.save()
 
             send_mail('AkilunaPhotography.com - new contact: %s' % contact_name, form_content, contact_email,
-                      ['nosonwan@gmail.com'])
+                      ['nwobi.vivian@gmail.com'])
 
         return redirect('success')
 
