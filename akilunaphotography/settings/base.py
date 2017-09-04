@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'wagtail.wagtailsearch',
     'wagtail.wagtailadmin',
     'wagtail.wagtailcore',
+    'wagtail.contrib.modeladmin',
 
     'modelcluster',
     'taggit',
@@ -57,6 +58,8 @@ INSTALLED_APPS = [
     'contact',
     'gallery',
 ]
+
+SITE_ID = 1
 
 MIDDLEWARE = [
     'django.contrib.sessions.middleware.SessionMiddleware',
